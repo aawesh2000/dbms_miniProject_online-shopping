@@ -8,7 +8,16 @@ About the project:-
 	This is an online-shopping system, created using MySql Database,PHP,HTML,CSS. This project will give the user an insight
 about the real world online-shopping system like Amazon,Flipkart etc. The user can Shop Electronics,Clothes and other accessories
 as well as he/she can also enjoy the discount facility. The user will need to register firstly to login next time. This system will 
-also help you by suggesting top deals. The payment facility has also been included such that he/she will find ease in placing the order.	
+also help you by suggesting top deals. The payment facility has also been included such that he/she will find ease in placing the order.
+=========================================================================================================================================================			Frontend Used :- HTML,CSS
+Backend Used :- PHP
+=========================================================================================================================================================		
+Features
+
+1)Provide stastic analysis to customer and sellers.
+2)For customers provide analysis of spending over various categories.
+3)For sellers provide analysis of sell ratio over various cities.
+
 =========================================================================================================================================================								
 RELATIONAL SCHEMA :-
 admin_info : pk:admin_id							Functional Dependency:
@@ -209,17 +218,6 @@ As address and mobile number can take  multiple value, we split it into differen
 As there is no Tansitive Dependency we can say it is already in 3NF.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Tech Stack Used
-
-Frontend Used :- HTML,CSS
-Backend Used :- PHP
-
-Features
-
-1)Provide stastic analysis to customer and sellers.
-2)For customers provide analysis of spending over various categories.
-3)For sellers provide analysis of sell ratio over various cities.
 
 Installation and Running : 
 You need to install XAMPP and on apache & sql server
